@@ -1,1 +1,8 @@
-# javaexercises
+# JAVA EXERCISES
+
+
+Basic exercises for learning to code in JAVA
+
+## FOR COMPUTER SCIENCE, IB 
+
+#### ALL CODE, UNLESS OTHERWISE STATED WRITTEN BY @EDVILME EDUARDO VILLALPANDO MELLO
